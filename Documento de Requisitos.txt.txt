@@ -9,3 +9,6 @@ RF002: El sistema de be imprimir reporte de calificaciones
 
 RF003: El sistema debe permitir la carga de materias
 ___________________________________________________________
+
+Requisitos no funcionales:
+
