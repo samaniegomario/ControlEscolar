@@ -1,0 +1,29 @@
+commit 78b6339f3deb6ccf90e8d38e787180096308d347
+Author: samaniego mario <mario_maxtrs4@hotmail.com>
+Date:   Wed Mar 16 10:26:06 2016 -0700
+
+    Conclusiones
+
+commit ede5d6368a1c2d45b6e411030ed9a6c585fc0135
+Author: samaniego mario <mario_maxtrs4@hotmail.com>
+Date:   Wed Mar 16 10:23:40 2016 -0700
+
+    Listas de casos de uso
+
+commit 97140db49625bf9e23967c04a2bf6e5790f483f0
+Author: samaniego mario <mario_maxtrs4@hotmail.com>
+Date:   Wed Mar 16 10:19:55 2016 -0700
+
+    Requisitos no funcionales
+
+commit d47144f00b333a234c38966943d1b4b183001fc9
+Author: samaniego mario <mario_maxtrs4@hotmail.com>
+Date:   Wed Mar 16 10:13:42 2016 -0700
+
+    Requisitos funcionales
+
+commit ebe5d38e3a8e8d574cd47d1852c91722530e21d5
+Author: samaniego mario <mario_maxtrs4@hotmail.com>
+Date:   Tue Mar 15 10:50:29 2016 -0700
+
+    Documento de Requisitos
